@@ -6,8 +6,9 @@
 ```
 ### 图标预览
  
+![Website](http://design.xcodekit.loc//iconfont/preview/sd-markdown-icon/sd-markdown-icon-website.32x.png)
+```html
 <i class="sd-markdown-icon-website" >Website</i>
-<script>
-  document.writeln("<link rel=\"stylesheet\" href=\"http://design.xcodekit.loc/iconfont/get/sd-markdown-icon.css\">");
-  </script>
+```
+ 
 
